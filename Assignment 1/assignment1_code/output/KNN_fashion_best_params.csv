@@ -1,0 +1,2 @@
+algorithm,leaf_size,metric,metric_params,n_jobs,n_neighbors,p,weights
+auto,30,manhattan,,2,4,2,uniform

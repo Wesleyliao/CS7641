@@ -1,0 +1,2 @@
+C,class_weight,dual,fit_intercept,intercept_scaling,loss,max_iter,multi_class,penalty,random_state,tol,verbose
+0.001,balanced,False,True,1,squared_hinge,126,ovr,l2,,1e-08,False

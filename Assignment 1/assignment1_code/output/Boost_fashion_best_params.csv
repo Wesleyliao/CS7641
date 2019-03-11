@@ -1,0 +1,6 @@
+algorithm,base_estimator,base_estimator__alpha,base_estimator__class_weight,base_estimator__criterion,base_estimator__max_depth,base_estimator__max_features,base_estimator__max_leaf_nodes,base_estimator__min_impurity_decrease,base_estimator__min_impurity_split,base_estimator__min_samples_leaf,base_estimator__min_samples_split,base_estimator__min_weight_fraction_leaf,base_estimator__presort,base_estimator__random_state,base_estimator__splitter,learning_rate,n_estimators,random_state
+SAMME,"DTLearner(alpha=0, class_weight='balanced', criterion='gini', max_depth=16,
+     max_features=None, max_leaf_nodes=None, min_impurity_decrease=0.0,
+     min_impurity_split=None, min_samples_leaf=1, min_samples_split=2,
+     min_weight_fraction_leaf=0.0, presort=False, random_state=12021,
+     splitter='best')",0,balanced,gini,16,,,0.0,,1,2,0.0,False,12021,best,1,20,12021

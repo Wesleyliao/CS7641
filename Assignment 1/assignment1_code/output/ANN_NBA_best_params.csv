@@ -1,0 +1,2 @@
+activation,alpha,batch_size,beta_1,beta_2,early_stopping,epsilon,hidden_layer_sizes,learning_rate,learning_rate_init,max_iter,momentum,nesterovs_momentum,power_t,random_state,shuffle,solver,tol,validation_fraction,verbose,warm_start
+relu,3.1622776601683795,auto,0.9,0.999,False,1e-08,"(239, 239)",constant,0.001,200,0.9,True,0.5,,True,adam,1e-08,0.1,False,False

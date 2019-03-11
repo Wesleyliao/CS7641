@@ -1,0 +1,1 @@
+ANN,fashion,0.849,{'MLP__activation': 'relu', 'MLP__alpha': 3.1622776601683795e-05, 'MLP__hidden_layer_sizes': (1568,)}
