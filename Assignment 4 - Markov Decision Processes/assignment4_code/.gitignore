@@ -1,0 +1,28 @@
+*.class
+.DS_Store
+bin/*
+ABAGAIL.jar
+.idea
+# Package Files #
+*.jar
+*.war
+*.ear
+manifest.mf
+/bin
+
+*.java~
+
+# Project parameters
+parameters.py
+
+# Project results
+/output*
+/results
+*.log
+
+# __pycache__ directories and contents
+*__pycache__*
+
+# Python virtualenv directories
+/include
+/lib
